@@ -1,42 +1,59 @@
-# 🚀 Cybernova - Award-Winning 2D Adventure Game! 🚀
+# 🚀 Cybernova - Award-Winning 2D Adventure Game
 
-We are thrilled to share that **Cybernova**, our 2D adventure game developed in **C** using the **SDL 1.2 library**, won the **Best Freshman Project** award in the Computer Science section at **ESPRIT School of Engineering** on **June 12, 2024**! 🎉 This project was selected as the best among over **1800 students** forming **320+ teams**, and we couldn’t be prouder of this achievement.
-
----
-
-## 🌐 Welcome to Cybernova City!
-
-> _"What if your city was taken over by AI?"_
-
-Dive into **Cybernova**, a futuristic city where players navigate a world shaped by the impact of AI on society. Developed by **The Monarchs** — **Edam Hakim Moez Touil, Dhia Dinne Djebbi, Yessine Gebssi**, and myself — this game delivers a serious yet fun experience with engaging puzzles, action-packed levels, and immersive gameplay.
+**Cybernova** is a 2D adventure game developed in **C** using the **SDL 1.2 library**, showcasing a futuristic city overtaken by AI. This project, created by **The Monarchs**, won the **Best Freshman Project** award at the **ESPRIT School of Engineering** on **June 12, 2024**, outperforming over **320 teams** across 1800+ students.
 
 ---
 
-## 🎮 Game Features:
-- **Distinct Districts**: Explore unique futuristic environments.
-- **Challenging Levels**: Solve puzzles, overcome obstacles, and defeat enemies.
-- **Epic Boss Battle**: Conclude your journey with an intense showdown.
+## 🌟 Features
+- **Explorable Futuristic City**:
+  - Distinct districts filled with unique puzzles, enemies, and challenges.
+- **Three Engaging Levels**:
+  - Solve puzzles, dodge obstacles, and defeat enemies.
+- **Epic Boss Battle**:
+  - A climactic fight to conclude the journey.
 - **Advanced Gameplay Mechanics**:
-  - Resizable mini-map for easier navigation.
-  - Character abilities like double jumps and shields.
-  - Mini-games integrated into the levels.
-- **Multiplayer Mode**: Play with friends using keyboard or game controllers.
+  - Resizable mini-map for easy navigation.
+  - Player abilities like double jumps and shields.
+  - Integrated mini-games to add variety.
+- **Multiplayer Mode**:
+  - Supports keyboard and game controller inputs for a cooperative experience.
 
 ---
 
-## 🎥 See Cybernova in Action:
-- **Gameplay Video** 🕹️: [Watch here](https://lnkd.in/gA_JqEu6)
-- **Game Trailer** 📹: [Watch here](https://lnkd.in/d3hXgxmv)
-- **Game Story** 📄: [Read here](https://lnkd.in/dFAFD3jW)
-
----
-
-## 🏆 Events and Recognition:
-We presented Cybernova at the **Bal des Projets** event, engaging with innovators and showcasing our project to a wide audience. The feedback and interactions were invaluable, pushing us to set higher goals for future projects.
-
----
-
-## 🛠️ Built With:
+## 🛠️ Built With
 - **C Programming Language**
 - **SDL 1.2 Library**
 - Developed on **Ubuntu**
+
+---
+
+## 🎮 Accessing the Code
+
+To request access to the source code of Cybernova, please contact me via **[LinkedIn](https://www.linkedin.com/in/yessinehakim/)**. I’ll be happy to discuss the project and share the code upon request.
+
+---
+
+## 🎥 Media
+- **Gameplay Video**: [Watch here](https://lnkd.in/gA_JqEu6)
+- **Game Trailer**: [Watch here](https://lnkd.in/d3hXgxmv)
+- **Game Story**: [Read here](https://lnkd.in/dFAFD3jW)
+
+---
+
+## 🤝 Acknowledgments
+- **Team Members**:  
+  - Edam Hakim
+  - Yessine Hakim 
+  - Moez Touil  
+  - Dhia Dinne Djebbi  
+  - Yessine Gebssi  
+
+- Special thanks to **ESPRIT School of Engineering** for organizing the **Bal des Projets** event and providing a platform to showcase our work.
+
+---
+
+## 🏆 Achievements
+- Winner of **Best Freshman Project** (Computer Science)  
+- Presented at the **Bal des Projets 2024**
+
+---
