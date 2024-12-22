@@ -34,7 +34,7 @@ To request access to the source code of Cybernova, please contact me via **[Link
 ---
 
 ## 🎥 Media
-- **Gameplay Video**: [Watch here](https://lnkd.in/gA_JqEu6)
+- **Gameplay Video**: [Watch here](https://drive.google.com/file/d/1KMyVjOlyzcToQ_QF9gGFoggQ_MqhyujK/view).
 - **Game Trailer**: [Watch here](https://lnkd.in/d3hXgxmv)
 - **Game Story**: [Read here](https://lnkd.in/dFAFD3jW)
 
