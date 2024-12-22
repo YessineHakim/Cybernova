@@ -56,4 +56,3 @@ To request access to the source code of Cybernova, please contact me via **[Link
 - Winner of **Best Freshman Project** (Computer Science)  
 - Presented at the **Bal des Projets 2024**
 
----
