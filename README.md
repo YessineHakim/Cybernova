@@ -1,5 +1,7 @@
 # 🚀 Cybernova - Award-Winning 2D Adventure Game
 
+![Cybernova Glitch](assets/Cybernova Glitch - GIF.gif)
+
 **Cybernova** is a 2D adventure game developed in **C** using the **SDL 1.2 library**, showcasing a futuristic city overtaken by AI. This project, created by **The Monarchs**, won the **Best Freshman Project** award at the **ESPRIT School of Engineering** on **June 12, 2024**, outperforming over **320 teams** across 1800+ students.
 
 ---
@@ -34,7 +36,7 @@ To request access to the source code of Cybernova, please contact me via **[Link
 ---
 
 ## 🎥 Media
-- **Gameplay Video**: [Watch here](https://drive.google.com/file/d/1KMyVjOlyzcToQ_QF9gGFoggQ_MqhyujK/view).
+- **Gameplay Video**: [Watch here](https://drive.google.com/file/d/1KMyVjOlyzcToQ_QF9gGFoggQ_MqhyujK/view)
 - **Game Trailer**: [Watch here](https://lnkd.in/d3hXgxmv)
 - **Game Story**: [Read here](https://lnkd.in/dFAFD3jW)
 
@@ -42,8 +44,8 @@ To request access to the source code of Cybernova, please contact me via **[Link
 
 ## 🤝 Acknowledgments
 - **Team Members**:  
-  - Edam Hakim
-  - **Yessine Hakim** - [LinkedIn](https://www.linkedin.com/in/yessinehakim/).
+  - Edam Hakim  
+  - **Yessine Hakim** - [LinkedIn](https://www.linkedin.com/in/yessinehakim/).  
   - Moez Touil  
   - Dhia Dinne Djebbi  
   - Yessine Gebssi  
@@ -55,4 +57,3 @@ To request access to the source code of Cybernova, please contact me via **[Link
 ## 🏆 Achievements
 - Winner of **Best Freshman Project** (Computer Science)  
 - Presented at the **Bal des Projets 2024**
-
