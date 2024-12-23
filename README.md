@@ -1,6 +1,6 @@
 # 🚀 Cybernova - Award-Winning 2D Adventure Game
 
-<p align="center">
+<p align="left">
     <img src="CybernovaGlitch.gif" alt="Cybernova" width="600" />
 </p>
 
