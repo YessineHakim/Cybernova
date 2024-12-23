@@ -1,6 +1,6 @@
 # 🚀 Cybernova - Award-Winning 2D Adventure Game
 
-![Cybernova Glitch](assets/Cybernova Glitch - GIF.gif)
+![Cybernova Glitch](Cybernova Glitch - GIF.gif)
 
 **Cybernova** is a 2D adventure game developed in **C** using the **SDL 1.2 library**, showcasing a futuristic city overtaken by AI. This project, created by **The Monarchs**, won the **Best Freshman Project** award at the **ESPRIT School of Engineering** on **June 12, 2024**, outperforming over **320 teams** across 1800+ students.
 
