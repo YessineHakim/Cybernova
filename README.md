@@ -45,10 +45,10 @@ To request access to the source code of Cybernova, please contact me via **[Link
 ---
 
 ## 🤝 Acknowledgments
-- **Team Members**:  
-  - Edam Hakim  
-  - **Yessine Hakim** - [LinkedIn](https://www.linkedin.com/in/yessinehakim/).  
-  - Moez Touil  
+- **Team Members**:
+  - **Yessine Hakim (Me)** - [LinkedIn](https://www.linkedin.com/in/yessinehakim/).    
+  - Edam Hakim  - [LinkedIn](https://www.linkedin.com/in/edamhakim/).   
+  - Moez Touil  - [LinkedIn](https://www.linkedin.com/in/moeztouil/). 
   - Dhia Dinne Djebbi  
   - Yessine Gebssi  
 
